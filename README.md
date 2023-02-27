@@ -11,19 +11,27 @@ Please add the extension to all areas where it is acceptable. If the extension h
 #### Self-hosted
 | Name               | Github.io                               | Repo                                     |
 |--------------------|-----------------------------------------|------------------------------------------|
-| Kavya (For Kavita) | [https://ack72.github.io/kavya-paperback]() | https://github.com/ACK72/kavya-paperback |
+| Kavya (For Kavita) | [https://ack72.github.io/kavya-paperback] | https://github.com/ACK72/kavya-paperback |
 
 #### Comics
-- [xOnlyFadi's Extensions (0.6)](https://xonlyfadi.github.io/xonlyfadi-extensions/0.6/) -- https://github.com/xonlyfadi/xonlyfadi-extensions/
+| Name               | Github.io                               | Repo                                     |
+|--------------------|-----------------------------------------|------------------------------------------|
+| xOnlyFadi's Extensions (0.6)| https://xonlyfadi.github.io/xonlyfadi-extensions/0.6/ | https://github.com/xonlyfadi/xonlyfadi-extensions/ |
 
 #### Manga
-- [xOnlyFadi's Extensions (0.6)](https://xonlyfadi.github.io/xonlyfadi-extensions/0.6/) -- https://github.com/xonlyfadi/xonlyfadi-extensions/
+| Name               | Github.io                               | Repo                                     |
+|--------------------|-----------------------------------------|------------------------------------------|
+| xOnlyFadi's Extensions (0.6)| https://xonlyfadi.github.io/xonlyfadi-extensions/0.6/ | https://github.com/xonlyfadi/xonlyfadi-extensions/ |
 
 #### Webtoon
-- [Kolby ML's Extensions](https://kolbyml.github.io/kolbymls-extensions/0.6/) -- https://github.com/kolbyml/kolbymls-extensions/
+| Name               | Github.io                               | Repo                                     |
+|--------------------|-----------------------------------------|------------------------------------------|
+| Kolby ML's Extensions | https://kolbyml.github.io/kolbymls-extensions/0.6/ | https://github.com/kolbyml/kolbymls-extensions/ |
 
 #### NSFW
-- [WaltersAsh's Extensions (0.6)](https://waltersash.github.io/waltersashs-extensions/0.6/) -- https://github.com/waltersash/waltersashs-extensions/
+| Name               | Github.io                               | Repo                                     |
+|--------------------|-----------------------------------------|------------------------------------------|
+| WaltersAsh's Extensions (0.6) | https://waltersash.github.io/waltersashs-extensions/0.6/ | https://github.com/waltersash/waltersashs-extensions/ |
 
 ---
 
