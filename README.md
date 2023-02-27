@@ -38,6 +38,8 @@ Please add the extension to all areas where it is acceptable. If the extension h
 
 ### Trackers
 #### Self-hosted
-- Kavya (For Kavita) -- https://github.com/ACK72/kavya-paperback-tracker
+| Name               | Github.io                               | Repo                                     |
+|--------------------|-----------------------------------------|------------------------------------------|
+| Kavya (For Kavita) | N/A | https://github.com/ACK72/kavya-paperback-tracker |
 
-## Paperback 0.8 Compatibile
+## Paperback 0.8 Compatible
