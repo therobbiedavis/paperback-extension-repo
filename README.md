@@ -9,7 +9,9 @@ Please add the extension to all areas where it is acceptable. If the extension h
 ## Paperback 0.7 Compatible
 ### Sources
 #### Self-hosted
-- [Kavya (For Kavita)](https://ack72.github.io/kavya-paperback) -- https://github.com/ACK72/kavya-paperback
+| Name               | Github.io                               | Repo                                     |
+|--------------------|-----------------------------------------|------------------------------------------|
+| Kavya (For Kavita) | [https://ack72.github.io/kavya-paperback]() | https://github.com/ACK72/kavya-paperback |
 
 #### Comics
 - [xOnlyFadi's Extensions (0.6)](https://xonlyfadi.github.io/xonlyfadi-extensions/0.6/) -- https://github.com/xonlyfadi/xonlyfadi-extensions/
@@ -22,6 +24,8 @@ Please add the extension to all areas where it is acceptable. If the extension h
 
 #### NSFW
 - [WaltersAsh's Extensions (0.6)](https://waltersash.github.io/waltersashs-extensions/0.6/) -- https://github.com/waltersash/waltersashs-extensions/
+
+---
 
 ### Trackers
 #### Self-hosted
