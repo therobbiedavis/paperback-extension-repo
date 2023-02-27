@@ -24,6 +24,7 @@ Please add the extension to all areas where it is acceptable. If the extension h
 - [WaltersAsh's Extensions (0.6)](https://waltersash.github.io/waltersashs-extensions/0.6/) -- https://github.com/waltersash/waltersashs-extensions/
 
 ### Trackers
+#### Self-hosted
 - Kavya (For Kavita) -- https://github.com/ACK72/kavya-paperback-tracker
 
 ## Paperback 0.8 Compatibile
