@@ -1,5 +1,5 @@
 # Paperback Extensions
-The serves as a unified repository for all 3rd party extensions for Paperback.
+The serves as a unified repository for all 3rd party extensions for [Paperback](https://apps.apple.com/us/app/paperback-a-komga-client/id1626613373).
 All credit given to the developers of these extensions.
 **Please leave any issue on their repos.**
 
