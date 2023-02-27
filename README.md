@@ -20,12 +20,20 @@ Please add the extension to all areas where it is acceptable. If the extension h
 ### Comics
 | Name               | Github.io                               | Repo                                     |
 |--------------------|-----------------------------------------|------------------------------------------|
-| xOnlyFadi's Extensions (0.6)| https://xonlyfadi.github.io/xonlyfadi-extensions/0.6/ | https://github.com/xonlyfadi/xonlyfadi-extensions/ |
+| xOnlyFadi's Extensions (0.6) | https://xonlyfadi.github.io/xonlyfadi-extensions/0.6/ | https://github.com/xonlyfadi/xonlyfadi-extensions/ |
+| Netsky's Extensions (0.6) | https://thenetsky.github.io/netskys-extensions/0.6/ | https://github.com/thenetsky/netskys-extensions/ |
 
 ### Manga
 | Name               | Github.io                               | Repo                                     |
 |--------------------|-----------------------------------------|------------------------------------------|
-| xOnlyFadi's Extensions (0.6)| https://xonlyfadi.github.io/xonlyfadi-extensions/0.6/ | https://github.com/xonlyfadi/xonlyfadi-extensions/ |
+| xOnlyFadi's Extensions (0.6) | https://xonlyfadi.github.io/xonlyfadi-extensions/0.6/ | https://github.com/xonlyfadi/xonlyfadi-extensions/ |
+| Netsky's Extensions (0.6) | https://thenetsky.github.io/netskys-extensions/0.6/ | https://github.com/thenetsky/netskys-extensions/ |
+| NMN's Extensions | https://pandeynmn.github.io/nmns-extensions/main/ | https://github.com/pandeynmn/nmns-extensions/ |
+
+### Light Novels (Experimental)
+| Name               | Github.io                               | Repo                                     |
+|--------------------|-----------------------------------------|------------------------------------------|
+| NMN's Extensions | https://pandeynmn.github.io/nmns-extensions/main/ | https://github.com/pandeynmn/nmns-extensions/ |
 
 ### Webtoon
 | Name               | Github.io                               | Repo                                     |
@@ -36,6 +44,8 @@ Please add the extension to all areas where it is acceptable. If the extension h
 | Name               | Github.io                               | Repo                                     |
 |--------------------|-----------------------------------------|------------------------------------------|
 | WaltersAsh's Extensions (0.6) | https://waltersash.github.io/waltersashs-extensions/0.6/ | https://github.com/waltersash/waltersashs-extensions/ |
+| Loik Extensions | https://loik9081.github.io/loik-extensions/ | https://github.com/loik9081/loik-extensions |
+| Extensions Bentai (Netsky Fork) | https://thenetsky.github.io/extensions-generic/bentai/ | https://github.com/thenetsky/extensions-generic |
 
 
 
