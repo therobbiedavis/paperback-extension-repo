@@ -5,6 +5,11 @@ All credit given to the developers of these extensions.
 
 **Please leave any issues on the developer's repo.**
 
+## Installing an extension
+- Install Paperback
+- Tap on the github.io link below
+- Tap "Add to Paperback"
+
 # Contributing
 Please add the extension to all areas where it is acceptable. If the extension has both comic and manga sources, then add it to both.
 
