@@ -11,7 +11,9 @@ All credit given to the developers of these extensions.
 - Tap "Add to Paperback"
 
 # Contributing
-Please add the extension to all areas where it is acceptable. If the extension has both comic and manga sources, then add it to both.
+Please fork, add the extension to all areas where it is applicable, and submit a pull request. 
+
+If the extension has both comic and manga sources, then add it to both.
 
 
 
