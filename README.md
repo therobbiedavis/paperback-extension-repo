@@ -27,6 +27,7 @@ Please add the extension to all areas where it is acceptable. If the extension h
 |--------------------|-----------------------------------------|------------------------------------------|
 | xOnlyFadi's Extensions (0.6) | https://xonlyfadi.github.io/xonlyfadi-extensions/0.6/ | https://github.com/xonlyfadi/xonlyfadi-extensions/ |
 | Netsky's Extensions (0.6) | https://thenetsky.github.io/netskys-extensions/0.6/ | https://github.com/thenetsky/netskys-extensions/ |
+| GameFuzzy's Extensions | https://gamefuzzy.github.io/extensions-gamefuzzy/main/ | m/gamefuzzy/extensions-gamefuzzy/ |
 
 ### Manga
 | Name               | Github.io                               | Repo                                     |
@@ -34,6 +35,7 @@ Please add the extension to all areas where it is acceptable. If the extension h
 | xOnlyFadi's Extensions (0.6) | https://xonlyfadi.github.io/xonlyfadi-extensions/0.6/ | https://github.com/xonlyfadi/xonlyfadi-extensions/ |
 | Netsky's Extensions (0.6) | https://thenetsky.github.io/netskys-extensions/0.6/ | https://github.com/thenetsky/netskys-extensions/ |
 | NMN's Extensions | https://pandeynmn.github.io/nmns-extensions/main/ | https://github.com/pandeynmn/nmns-extensions/ |
+| GameFuzzy's Extensions | https://gamefuzzy.github.io/extensions-gamefuzzy/main/ | m/gamefuzzy/extensions-gamefuzzy/ |
 
 ### Light Novels (Experimental)
 | Name               | Github.io                               | Repo                                     |
